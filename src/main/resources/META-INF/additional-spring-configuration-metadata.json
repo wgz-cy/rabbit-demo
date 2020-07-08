@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "server.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for server.datasource.driver-class-name."
+    },
+    {
+      "name": "mybatis.logging.level.com.example.rabbit.dao",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.logging.level.com.example.rabbit.dao."
+    }
+  ] }
